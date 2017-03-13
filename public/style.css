@@ -1,0 +1,17 @@
+.table {
+  margin: 0 10px;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 5px;
+  border-color: aliceblue;
+  background-color: aliceblue;
+  min-height: 100px;
+}
+
+.name {
+  margin-bottom: 5px;
+}
+
+.error {
+  color: red;
+}
